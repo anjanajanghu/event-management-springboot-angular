@@ -3,9 +3,9 @@ Web application for Event management using springboot and angular
 
 # Springboot
 Spriingboot framework is used for development of backend Server.
-Maven build the project.
-Integrate with MySql in application.properties file
-Run as a spring boot application.
+1. Maven build the project.
+1. Integrate with MySql in application.properties file
+3. Run as a spring boot application.
 
 
 # MySql
@@ -14,8 +14,8 @@ MySql database is used for the data storage.
 # Angular
 AngularJs is used for development of frontend application. 
 For starters run
-npm install
-npm start
+1. npm install
+2. npm start
 
 # Features
 1. User Login/Signup
